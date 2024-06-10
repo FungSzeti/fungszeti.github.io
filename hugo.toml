@@ -1,4 +1,7 @@
 baseURL = 'fungszeti.github.io'
-languageCode = 'en-us'
+defaultContentLanguage = "zh-cn"
+languageCode = 'zh-CN'
+hasCJKLanguage = true
 theme = "DoIt"
 title = 'Who cares?'
+
