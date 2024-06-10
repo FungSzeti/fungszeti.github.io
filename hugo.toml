@@ -1,7 +1,74 @@
-baseURL = 'fungszeti.github.io'
-defaultContentLanguage = "zh-cn"
-languageCode = 'zh-CN'
-hasCJKLanguage = true
-theme = "DoIt"
-title = 'Who cares?'
+# baseURL = 'fungszeti.github.io'
+# defaultContentLanguage = "zh-cn"
+# languageCode = 'zh-CN'
+# hasCJKLanguage = true
+# theme = "DoIt"
+# title = 'Who cares?'
+# 
+baseURL = "fungszeti.github.io"
 
+defaultContentLanguage = "zh-cn"
+
+languageCode = "zh-CN"
+
+hasCJKLanguage = true
+
+title = "Who cares?"
+
+theme = "DoIt"
+
+[params]
+    version = "0.4.X"
+
+[menu]
+    [[menu.main]]
+        identifier = "posts"
+
+        pre = ""
+
+        post = ""
+
+        name = "文章"
+
+        url = "/posts/"
+
+        title = ""
+
+        weight = 1
+
+        [[menu.main]]
+            identifier = "tags"
+
+            pre = ""
+
+            post = ""
+
+            name = "标签"
+
+            url = "/tags/"
+
+            title = ""
+
+            weight = 2
+
+        [[menu.main]]
+            identifier = "categories"
+
+            pre = ""
+
+            post = ""
+
+            name = "分类"
+
+            url = "/categories/"
+
+            title = ""
+
+            weight = 3
+
+
+[markup]
+
+    [markup.highlight]
+
+    noClasses = false
