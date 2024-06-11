@@ -5,7 +5,9 @@
 # theme = "DoIt"
 # title = 'Who cares?'
 # 
-baseURL = "fungszeti.github.io"
+# baseURL = "fungszeti.github.io"
+
+baseURL = "fungszeti-github.io.vercel.app"
 
 defaultContentLanguage = "zh-cn"
 
