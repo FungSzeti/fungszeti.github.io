@@ -2,7 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>fungszeti.github.io/posts/</loc><lastmod>2024-06-10T17:30:43&#43;08:00</lastmod></url><url>
-            <loc>fungszeti.github.io/</loc><lastmod>2024-06-10T17:30:43&#43;08:00</lastmod></url><url>
-            <loc>fungszeti.github.io/categories/</loc></url><url>
-            <loc>fungszeti.github.io/tags/</loc></url></urlset>
+            <loc>//localhost:1313/posts/first_post/</loc><lastmod>2024-06-10T17:30:43&#43;08:00</lastmod></url><url>
+            <loc>//localhost:1313/posts/</loc><lastmod>2024-06-10T17:30:43&#43;08:00</lastmod></url><url>
+            <loc>//localhost:1313/</loc><lastmod>2024-06-10T17:30:43&#43;08:00</lastmod></url><url>
+            <loc>//localhost:1313/about/</loc><lastmod>2024-06-10T02:44:11&#43;08:00</lastmod></url><url>
+            <loc>//localhost:1313/categories/</loc></url><url>
+            <loc>//localhost:1313/tags/</loc></url></urlset>
